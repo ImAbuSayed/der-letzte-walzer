@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-letzte-walzer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Der letzte Walzer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-walzer/) |
+| **Get License** | [Secure Licensing Rights for Der letzte Walzer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-walzer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Spür den Bass in mei'm Herz, Baby, schau mich an
+> Rote Lichter in der City, zieh dich in mein'n Bann
+> Steig ein in den Benz, dein Duft raubt mir den Verstand
+> Wir tanzen den letzten Walzer, Shorty, nimm meine Hand
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
