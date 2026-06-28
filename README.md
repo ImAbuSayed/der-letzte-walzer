@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-letzte-walzer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Der letzte Walzer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-walzer/) |
+| **Get License** | [License this song: Der letzte Walzer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-walzer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1ac7d9e69ca54ea580e84204bab8364a4cbd7438b381b168395b96c8ff16da47` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
